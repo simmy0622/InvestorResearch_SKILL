@@ -1,0 +1,174 @@
+{
+  "generatedAt": "2026-03-15T11:09:45.164Z",
+  "summary": {
+    "runId": "run_20260315_175812",
+    "analysisDate": "2026-03-15",
+    "updatedAt": "2026-03-15T18:06:24+08:00",
+    "analysisCount": 3,
+    "tradePlanCount": 3,
+    "riskReviewCount": 3,
+    "decisions": {
+      "approved": 1,
+      "watch": 2,
+      "rejected": 0
+    },
+    "fileCount": 9
+  },
+  "entries": [
+    {
+      "id": "analysis/2026-03-15/macro__ths_20260315_001.md",
+      "fileName": "macro__ths_20260315_001.md",
+      "relativePath": "intel/analysis/2026-03-15/macro__ths_20260315_001.md",
+      "title": "科技成长重新成为本周A股强势主线，但需要提防周五式获利回吐继续扩散",
+      "route": "macro",
+      "thesisId": "ths_20260315_001",
+      "sizeBytes": 2503,
+      "modifiedAt": "2026-03-15T09:57:31.246Z",
+      "content": "# Thesis | 科技成长重新成为本周A股强势主线，但需要提防周五式获利回吐继续扩散\n\n## 事件事实\n《十五五》规划纲要在3月15日被市场集中解读，全文多次提及人工智能。结合本周指数表现，2026年3月9日至2026年3月13日，上证指数下跌0.70%，深证成指上涨0.76%，创业板指上涨2.51%，说明资金主要回流科技成长而非全面风险偏好抬升。\n\n## 宏观层判断\n这条事件影响的核心是中期增长预期和风险偏好。政策把“人工智能+”从主题叙事上升到中长期产业规划，有利于提升市场对科技资本开支、国产替代和创新链估值的容忍度，但它并不等于短期全面流动性宽松，所以更接近“结构性 risk-on”而不是全市场 risk-on。\n\n## 行业层判断\n最先受影响的是算力、服务器、IDC、机器人、AI应用和科创成长板块。逻辑是政策预期先推动估值扩张，再观察订单、资本开支和业绩兑现。受益对象是高弹性科技成长；受损对象是缺乏景气验证、仅靠概念驱动的低质主题股。\n\n## 公司 / 资产层判断\n最直接的表达工具是`159915 创业板ETF`和`588000 科创50ETF`。这更偏beta表达，而不是单一公司alpha，因为本周的领先来自成长风格整体强化。若只想保留政策方向敞口而不过度赌单一细分赛道，宽基成长ETF优于单股追涨。\n\n## 三层交叉验证\n三层基本一致。宏观层给出政策锚，行业层给出科技成长承接路径，公司/资产层则落到创业板和科创板工具上。最脆弱的假设是成交额和风险偏好是否能延续到下周，一旦成交缩量，周五的回吐可能扩散。\n\n## 核心 thesis\n本周A股的主线不是“全面牛市”，而是“科技成长重新取得相对收益”。只要创业板和科创方向保持量价配合，回踩更接近二次上车点，而不是趋势反转。\n\n## 关键假设\nAI政策叙事可以继续吸引增量资金，且成交额不会快速塌陷。\n\n## 反证条件\n创业板指重新跌回3260下方，且科技板块成交额连续两天萎缩，说明资金并未把政策解读转化为持续配置。\n\n## 观察指标\n创业板指和科创50的相对强弱、算力和机器人方向的成交额、科技股周一能否收复周五高点附近阻力。\n\n## Next Step\n优先跟踪成长宽基ETF，不追最拥挤单一题材。若周初先回踩再放量企稳，可进入交易计划阶段。\n",
+      "type": "markdown",
+      "category": "analysis"
+    },
+    {
+      "id": "analysis/2026-03-15/sector__ths_20260315_002.md",
+      "fileName": "sector__ths_20260315_002.md",
+      "relativePath": "intel/analysis/2026-03-15/sector__ths_20260315_002.md",
+      "title": "以旧换新继续托底内需，但消费线本周仍落后于科技线，适合等待回踩后的确认",
+      "route": "sector",
+      "thesisId": "ths_20260315_002",
+      "sizeBytes": 2217,
+      "modifiedAt": "2026-03-15T09:57:31.246Z",
+      "content": "# Thesis | 以旧换新继续托底内需，但消费线本周仍落后于科技线，适合等待回踩后的确认\n\n## 事件事实\n商务部口径显示，2026年以来消费品以旧换新已带动销售额超过3000亿元。该数据强化了家电、汽车、消费电子等耐用品消费修复逻辑，但本周市场最强方向仍是科技成长，消费主线没有形成压倒性相对收益。\n\n## 宏观层判断\n这条事件影响的是增长和居民消费预期，而不是流动性本身。它更像对内需底部的验证，性质偏中观需求托底，短期作用是改善对顺周期消费的悲观预期，中期要看销量向利润率和估值修复的传导效率。\n\n## 行业层判断\n受益顺序更可能是家电、汽车、消费电子，再向零售和可选消费扩散。影响逻辑主要是需求恢复和补贴拉动销量，而不是原材料供给冲击。受损对象不明显，但若市场继续偏好高弹性科技，则消费线会在相对收益上落后。\n\n## 公司 / 资产层判断\n可用工具包括`家电ETF`、`可选消费ETF`和更稳健的`510300`。这类表达兼具beta和局部alpha，但当前更适合做“回踩确认后再参与”，而不是追当天利好。\n\n## 三层交叉验证\n宏观层和行业层方向一致，但资产层验证还不充分，因为本周指数分化显示资金更偏向成长股。主驱动是政策对需求的托底，而最脆弱的环节是市场资金是否愿意给消费线相对收益。\n\n## 核心 thesis\n消费修复没有被证伪，但它在本周不是最强进攻主线。更合理的策略是把它放进观察池，等出现相对强弱改善和成交确认再动手。\n\n## 关键假设\n政策销售数据会继续传导到家电、汽车和消费电子链条的业绩预期。\n\n## 反证条件\n消费板块在政策利好后仍持续跑输沪深300，说明这条线只停留在数据层，没有形成交易层面的共识。\n\n## 观察指标\n家电和汽车板块相对沪深300的强弱、政策延续表态、销量高频数据、板块成交额是否回升。\n\n## Next Step\n只做回踩确认，不做消息面追高。若家电或可选消费ETF出现放量反包，再升级为主动计划。\n",
+      "type": "markdown",
+      "category": "analysis"
+    },
+    {
+      "id": "analysis/2026-03-15/company__ths_20260315_003.md",
+      "fileName": "company__ths_20260315_003.md",
+      "relativePath": "intel/analysis/2026-03-15/company__ths_20260315_003.md",
+      "title": "茅台治理扰动压制白酒情绪，但更像减配信号，不是高胜率主动做空信号",
+      "route": "company",
+      "thesisId": "ths_20260315_003",
+      "sizeBytes": 1962,
+      "modifiedAt": "2026-03-15T09:57:31.246Z",
+      "content": "# Thesis | 茅台治理扰动压制白酒情绪，但更像减配信号，不是高胜率主动做空信号\n\n## 事件事实\n3月13日贵州省纪委监委披露，贵州茅台副总经理、财务总监、董事会秘书蒋焰涉嫌严重违纪违法。媒体在3月15日继续发酵这一事件，把其与茅台近年治理波动和业绩放缓放在一起讨论。\n\n## 宏观层判断\n这类事件对宏观增长和流动性影响有限，主要作用于风险偏好和高端消费龙头的治理溢价。它不是系统性风险，但会抬升投资者对白酒板块“高确定性”的怀疑。\n\n## 行业层判断\n白酒板块面临的不是需求突然崩塌，而是估值溢价被压缩。受益对象不明显，受损对象是高估值、依赖品牌溢价和治理稳定性的龙头酒企。若市场风格重新偏成长，白酒容易继续被边缘化。\n\n## 公司 / 资产层判断\n直接工具是`600519`或`酒ETF`，但主动做空工具并不理想，且事件后容易出现防御资金短线回补。因此它更适合作为减配或规避信号，而不是立即做空信号。\n\n## 三层交叉验证\n三层并不完全一致。公司层面利空明确，行业层面偏负面，但宏观层面没有共振，这限制了做空胜率。最脆弱的假设是防御资金回流消费权重，可能迅速对冲个股治理利空。\n\n## 核心 thesis\n茅台事件对情绪和估值有压制，但更适合用来降低白酒权重，而不是在A股环境里主动追求下跌收益。\n\n## 关键假设\n公司治理事件会压低白酒板块的风险偏好与估值容忍度。\n\n## 反证条件\n茅台迅速修复到事件前区间上沿，且白酒板块同步转强，说明资金重新把它视为防御资产而非风险点。\n\n## 观察指标\n600519相对白酒指数的强弱、白酒ETF资金流、消费权重能否重新跑赢成长股。\n\n## Next Step\n维持观察或减配，不建议把它升级为高优先级主动交易。\n",
+      "type": "markdown",
+      "category": "analysis"
+    }
+  ],
+  "tradePlans": [
+    {
+      "id": "trade-plans/2026-03-15/pln_20260315_001",
+      "fileName": "pln_20260315_001.json",
+      "relativePath": "intel/trade-plans/2026-03-15/pln_20260315_001.json",
+      "title": "LONG 159915 创业板ETF",
+      "route": "event-driven",
+      "thesisId": "ths_20260315_001",
+      "planId": "pln_20260315_001",
+      "instrument": "159915 创业板ETF",
+      "direction": "long",
+      "status": "approved",
+      "confidence": "medium",
+      "entryTrigger": "仅在创业板指重新站上3330并出现科技板块放量时执行，对应ETF不追高，等确认收回周五回撤中枢。",
+      "stopLoss": "创业板指日线重新跌破3260，或科技主线连续两日缩量下跌。",
+      "targetZone": "创业板指3400-3450对应区域，若量能明显扩张可保留部分仓位观察。",
+      "invalidation": "AI政策催化未能转化为持续成交，且创业板重新弱于沪深300。",
+      "content": "{\n  \"schemaVersion\": \"1.0\",\n  \"runId\": \"run_20260315_175812\",\n  \"planId\": \"pln_20260315_001\",\n  \"eventId\": \"eastmoney-news:20260315-001\",\n  \"thesisId\": \"ths_20260315_001\",\n  \"instrument\": \"159915 创业板ETF\",\n  \"direction\": \"long\",\n  \"setup\": \"event-driven\",\n  \"regime\": \"mixed\",\n  \"trend\": \"本周成长明显强于权重，上证指数周跌0.70%，创业板指周涨2.51%，结构性风险偏好改善仍在。\",\n  \"entryTrigger\": \"仅在创业板指重新站上3330并出现科技板块放量时执行，对应ETF不追高，等确认收回周五回撤中枢。\",\n  \"entryZone\": \"以创业板指3330-3350重新站稳作为对应ETF的买入条件。\",\n  \"stopLoss\": \"创业板指日线重新跌破3260，或科技主线连续两日缩量下跌。\",\n  \"targetZone\": \"创业板指3400-3450对应区域，若量能明显扩张可保留部分仓位观察。\",\n  \"timeStop\": \"3-7d\",\n  \"positionSize\": \"small\",\n  \"maxRiskPct\": \"0.25%\",\n  \"supportResistance\": \"支撑看3260-3280，首个阻力看3330-3350，进一步阻力看3400上方。\",\n  \"volumeConfirmation\": \"需要看到科技成长成交额较周五明显回升，最好恢复至周三附近水平；若无法实时量化则需人工确认。\",\n  \"invalidation\": \"AI政策催化未能转化为持续成交，且创业板重新弱于沪深300。\",\n  \"executionChecklist\": [\n    \"是否存在具体 instrument: 是，159915 创业板ETF\",\n    \"是否满足技术确认: 需先站回3330并放量\",\n    \"是否存在明确 invalidation: 有\",\n    \"是否与当前持仓主题高度重合: 需人工确认\",\n    \"是否需要人工确认量能 / 流动性: 是\"\n  ],\n  \"confidence\": \"medium\",\n  \"status\": \"approved\"\n}",
+      "type": "json",
+      "category": "trade-plan"
+    },
+    {
+      "id": "trade-plans/2026-03-15/pln_20260315_002",
+      "fileName": "pln_20260315_002.json",
+      "relativePath": "intel/trade-plans/2026-03-15/pln_20260315_002.json",
+      "title": "LONG 家电ETF",
+      "route": "pullback",
+      "thesisId": "ths_20260315_002",
+      "planId": "pln_20260315_002",
+      "instrument": "家电ETF",
+      "direction": "long",
+      "status": "watch",
+      "confidence": "medium",
+      "entryTrigger": "只在家电和可选消费板块出现回踩后放量反包，并且相对沪深300重新转强时考虑执行。",
+      "stopLoss": "若板块回踩后继续弱于沪深300，且政策利好后无跟涨，则取消计划。",
+      "targetZone": "先看前高附近的修复空间，若量价配合再上调目标。",
+      "invalidation": "市场继续只追科技弹性，消费板块相对强弱没有改善。",
+      "content": "{\n  \"schemaVersion\": \"1.0\",\n  \"runId\": \"run_20260315_175812\",\n  \"planId\": \"pln_20260315_002\",\n  \"eventId\": \"eastmoney-news:20260315-002\",\n  \"thesisId\": \"ths_20260315_002\",\n  \"instrument\": \"家电ETF\",\n  \"direction\": \"long\",\n  \"setup\": \"pullback\",\n  \"regime\": \"mixed\",\n  \"trend\": \"消费修复逻辑在增强，但本周市场相对收益仍明显偏向科技成长，消费线属于候补主线。\",\n  \"entryTrigger\": \"只在家电和可选消费板块出现回踩后放量反包，并且相对沪深300重新转强时考虑执行。\",\n  \"entryZone\": \"等待板块回踩5日线附近不破后的二次确认，不做消息面当日追涨。\",\n  \"stopLoss\": \"若板块回踩后继续弱于沪深300，且政策利好后无跟涨，则取消计划。\",\n  \"targetZone\": \"先看前高附近的修复空间，若量价配合再上调目标。\",\n  \"timeStop\": \"3-10d\",\n  \"positionSize\": \"watch\",\n  \"maxRiskPct\": \"watch\",\n  \"supportResistance\": \"当前缺少统一价格锚，先以5日线和前高区间做条件位。\",\n  \"volumeConfirmation\": \"必须看到家电或可选消费方向的成交额同步回升，否则只保留观察。\",\n  \"invalidation\": \"市场继续只追科技弹性，消费板块相对强弱没有改善。\",\n  \"executionChecklist\": [\n    \"是否存在具体 instrument: 有，但需进一步确认最优消费工具\",\n    \"是否满足技术确认: 否，当前仍缺少量价共振\",\n    \"是否存在明确 invalidation: 有\",\n    \"是否与当前持仓主题高度重合: 需人工确认\",\n    \"是否需要人工确认量能 / 流动性: 是\"\n  ],\n  \"confidence\": \"medium\",\n  \"status\": \"watch\"\n}",
+      "type": "json",
+      "category": "trade-plan"
+    },
+    {
+      "id": "trade-plans/2026-03-15/pln_20260315_003",
+      "fileName": "pln_20260315_003.json",
+      "relativePath": "intel/trade-plans/2026-03-15/pln_20260315_003.json",
+      "title": "WATCH 600519",
+      "route": "watch",
+      "thesisId": "ths_20260315_003",
+      "planId": "pln_20260315_003",
+      "instrument": "600519",
+      "direction": "watch",
+      "status": "watch",
+      "confidence": "medium",
+      "entryTrigger": "只有在600519持续弱于白酒指数且无法回到事件前区间时，才把规避信号升级为主动计划。",
+      "stopLoss": "若后续升级为主动计划，则以重新站回事件前收盘区间并伴随白酒板块转强作为取消条件。",
+      "targetZone": "暂不设主动收益目标，以风险规避为主。",
+      "invalidation": "防御资金重新流入消费权重，茅台快速修复并带动白酒板块走强。",
+      "content": "{\n  \"schemaVersion\": \"1.0\",\n  \"runId\": \"run_20260315_175812\",\n  \"planId\": \"pln_20260315_003\",\n  \"eventId\": \"eastmoney-news:20260315-003\",\n  \"thesisId\": \"ths_20260315_003\",\n  \"instrument\": \"600519\",\n  \"direction\": \"watch\",\n  \"setup\": \"watch\",\n  \"regime\": \"mixed\",\n  \"trend\": \"公司治理利空压制情绪，但白酒仍可能受到防御资金回补，趋势并未形成高确定性单边下行。\",\n  \"entryTrigger\": \"只有在600519持续弱于白酒指数且无法回到事件前区间时，才把规避信号升级为主动计划。\",\n  \"entryZone\": \"当前不主动建仓，只观察事件前收盘区间能否被重新站回。\",\n  \"stopLoss\": \"若后续升级为主动计划，则以重新站回事件前收盘区间并伴随白酒板块转强作为取消条件。\",\n  \"targetZone\": \"暂不设主动收益目标，以风险规避为主。\",\n  \"timeStop\": \"3-10d\",\n  \"positionSize\": \"watch\",\n  \"maxRiskPct\": \"watch\",\n  \"supportResistance\": \"先看事件前收盘区间是否重新成为压力位，缺少更清晰的价格锚。\",\n  \"volumeConfirmation\": \"需要看到白酒板块走弱且600519相对指数继续落后；当前需人工确认。\",\n  \"invalidation\": \"防御资金重新流入消费权重，茅台快速修复并带动白酒板块走强。\",\n  \"executionChecklist\": [\n    \"是否存在具体 instrument: 是，600519\",\n    \"是否满足技术确认: 否，当前更适合作为减配/规避信号\",\n    \"是否存在明确 invalidation: 有\",\n    \"是否与当前持仓主题高度重合: 需人工确认\",\n    \"是否需要人工确认量能 / 流动性: 是\"\n  ],\n  \"confidence\": \"medium\",\n  \"status\": \"watch\"\n}",
+      "type": "json",
+      "category": "trade-plan"
+    }
+  ],
+  "riskReviews": [
+    {
+      "id": "risk/2026-03-15/rrv_20260315_001",
+      "fileName": "rrv_20260315_001.json",
+      "relativePath": "intel/risk/2026-03-15/rrv_20260315_001.json",
+      "title": "APPROVED 159915 创业板ETF",
+      "route": "approved",
+      "planId": "pln_20260315_001",
+      "reviewId": "rrv_20260315_001",
+      "instrument": "159915 创业板ETF",
+      "decision": "approved",
+      "vetoReasons": [],
+      "note": "工具明确且流动性好，技术条件与失效条件完整，单笔风险预算控制在0.25%。",
+      "content": "{\n  \"schemaVersion\": \"1.0\",\n  \"runId\": \"run_20260315_175812\",\n  \"reviewId\": \"rrv_20260315_001\",\n  \"planId\": \"pln_20260315_001\",\n  \"instrument\": \"159915 创业板ETF\",\n  \"decision\": \"approved\",\n  \"vetoReasons\": [],\n  \"checks\": {\n    \"sourceDisagreement\": false,\n    \"liquidityRisk\": false,\n    \"correlatedExposure\": false,\n    \"missingInvalidation\": false,\n    \"missingInstrument\": false,\n    \"missingTechnicalConfirmation\": false\n  },\n  \"note\": \"工具明确且流动性好，技术条件与失效条件完整，单笔风险预算控制在0.25%。\"\n}",
+      "type": "json",
+      "category": "risk-review"
+    },
+    {
+      "id": "risk/2026-03-15/rrv_20260315_002",
+      "fileName": "rrv_20260315_002.json",
+      "relativePath": "intel/risk/2026-03-15/rrv_20260315_002.json",
+      "title": "WATCH 家电ETF",
+      "route": "watch",
+      "planId": "pln_20260315_002",
+      "reviewId": "rrv_20260315_002",
+      "instrument": "家电ETF",
+      "decision": "watch",
+      "vetoReasons": [
+        "Missing Technical Confirmation"
+      ],
+      "note": "逻辑成立，但缺少统一价格锚和即刻量价确认，只能继续观察。",
+      "content": "{\n  \"schemaVersion\": \"1.0\",\n  \"runId\": \"run_20260315_175812\",\n  \"reviewId\": \"rrv_20260315_002\",\n  \"planId\": \"pln_20260315_002\",\n  \"instrument\": \"家电ETF\",\n  \"decision\": \"watch\",\n  \"vetoReasons\": [\n    \"Missing Technical Confirmation\"\n  ],\n  \"checks\": {\n    \"sourceDisagreement\": false,\n    \"liquidityRisk\": false,\n    \"correlatedExposure\": false,\n    \"missingInvalidation\": false,\n    \"missingInstrument\": false,\n    \"missingTechnicalConfirmation\": true\n  },\n  \"note\": \"逻辑成立，但缺少统一价格锚和即刻量价确认，只能继续观察。\"\n}",
+      "type": "json",
+      "category": "risk-review"
+    },
+    {
+      "id": "risk/2026-03-15/rrv_20260315_003",
+      "fileName": "rrv_20260315_003.json",
+      "relativePath": "intel/risk/2026-03-15/rrv_20260315_003.json",
+      "title": "WATCH 600519",
+      "route": "watch",
+      "planId": "pln_20260315_003",
+      "reviewId": "rrv_20260315_003",
+      "instrument": "600519",
+      "decision": "watch",
+      "vetoReasons": [
+        "Missing Technical Confirmation"
+      ],
+      "note": "事件利空更适合减配而非主动做空，当前没有高确定性下跌技术结构。",
+      "content": "{\n  \"schemaVersion\": \"1.0\",\n  \"runId\": \"run_20260315_175812\",\n  \"reviewId\": \"rrv_20260315_003\",\n  \"planId\": \"pln_20260315_003\",\n  \"instrument\": \"600519\",\n  \"decision\": \"watch\",\n  \"vetoReasons\": [\n    \"Missing Technical Confirmation\"\n  ],\n  \"checks\": {\n    \"sourceDisagreement\": false,\n    \"liquidityRisk\": false,\n    \"correlatedExposure\": false,\n    \"missingInvalidation\": false,\n    \"missingInstrument\": false,\n    \"missingTechnicalConfirmation\": true\n  },\n  \"note\": \"事件利空更适合减配而非主动做空，当前没有高确定性下跌技术结构。\"\n}",
+      "type": "json",
+      "category": "risk-review"
+    }
+  ]
+}

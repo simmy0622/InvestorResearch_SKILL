@@ -1,0 +1,68 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "eventId": "eastmoney-news:20260315-004",
+    "source": "eastmoney-news",
+    "title": "央视“3·15”晚会今晚播出；企业微信可一键扫码接入OpenClaw｜周末要闻速递",
+    "summary": "21世纪经济报道3月15日报道，国务院常务会议讨论通过《国务院2026年重点工作分工方案》，研究建立地方财政补贴负面清单管理机制，偏中长期制度影响，短线交易映射一般。",
+    "url": "http://finance.eastmoney.com/news/1354,202603153672397590.html",
+    "publishedAt": "2026-03-15T16:51:36+08:00",
+    "crawledAt": "2026-03-15T17:58:12+08:00",
+    "categoryHint": "macro",
+    "meta": {
+      "policyFlag": true,
+      "heat": null,
+      "secCode": null,
+      "secName": null,
+      "tags": [
+        "国常会",
+        "财政补贴",
+        "政策"
+      ]
+    },
+    "scores": {
+      "timeliness": 8,
+      "impact": 7,
+      "certainty": 7,
+      "relevance": 4,
+      "surprise": 4,
+      "tradability": 4,
+      "total": 62.5,
+      "grade": "B"
+    }
+  },
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "eventId": "eastmoney-news:20260315-005",
+    "source": "eastmoney-news",
+    "title": "上海市经济和信息化委员会潘焱：全力推动量子科技从“实验室”走向“应用场”",
+    "summary": "上海证券报3月15日报道，上海在未来产业50人论坛上表态将推动量子科技产业化，主题弹性较高，但当前仍以中长期叙事为主，短线可交易映射偏弱。",
+    "url": "http://finance.eastmoney.com/news/1350,202603153672392788.html",
+    "publishedAt": "2026-03-15T15:54:06+08:00",
+    "crawledAt": "2026-03-15T17:58:12+08:00",
+    "categoryHint": "sector",
+    "meta": {
+      "policyFlag": false,
+      "heat": null,
+      "secCode": null,
+      "secName": null,
+      "tags": [
+        "量子科技",
+        "上海",
+        "未来产业"
+      ]
+    },
+    "scores": {
+      "timeliness": 8,
+      "impact": 6,
+      "certainty": 7,
+      "relevance": 4,
+      "surprise": 6,
+      "tradability": 5,
+      "total": 62.0,
+      "grade": "B"
+    }
+  }
+]

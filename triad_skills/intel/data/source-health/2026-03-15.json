@@ -1,0 +1,23 @@
+[
+  {
+    "source": "eastmoney-news",
+    "status": "success",
+    "fetchedCount": 20,
+    "parseOk": 20,
+    "errorMessage": null
+  },
+  {
+    "source": "sina-finance",
+    "status": "success",
+    "fetchedCount": 50,
+    "parseOk": 50,
+    "errorMessage": null
+  },
+  {
+    "source": "10jqka-news",
+    "status": "failed",
+    "fetchedCount": 0,
+    "parseOk": 0,
+    "errorMessage": "Nginx forbidden."
+  }
+]

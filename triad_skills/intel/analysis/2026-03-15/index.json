@@ -1,0 +1,61 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "thesisId": "ths_20260315_001",
+    "eventId": "eastmoney-news:20260315-001",
+    "route": "macro",
+    "primaryDriver": "macro",
+    "title": "科技成长重新成为本周A股强势主线，但需要提防周五式获利回吐继续扩散",
+    "stance": "bullish",
+    "confidence": "medium",
+    "tradability": "high",
+    "instrumentCandidates": [
+      "159915 创业板ETF",
+      "588000 科创50ETF",
+      "人工智能主题ETF"
+    ],
+    "notePath": "intel/analysis/2026-03-15/macro__ths_20260315_001.md",
+    "keyAssumption": "AI政策叙事可以继续吸引增量资金，且成交额不会快速塌陷。",
+    "keyRisk": "周五回撤演化为拥挤交易退潮，成长股重新失去量能支撑。"
+  },
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "thesisId": "ths_20260315_002",
+    "eventId": "eastmoney-news:20260315-002",
+    "route": "sector",
+    "primaryDriver": "industry",
+    "title": "以旧换新继续托底内需，但消费线本周仍落后于科技线，适合等待回踩后的确认",
+    "stance": "bullish",
+    "confidence": "medium",
+    "tradability": "medium",
+    "instrumentCandidates": [
+      "家电ETF",
+      "可选消费ETF",
+      "510300"
+    ],
+    "notePath": "intel/analysis/2026-03-15/sector__ths_20260315_002.md",
+    "keyAssumption": "政策销售数据会继续传导到家电、汽车和消费电子链条的业绩预期。",
+    "keyRisk": "市场资金继续只追高弹性科技，消费修复缺少相对收益。"
+  },
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "thesisId": "ths_20260315_003",
+    "eventId": "eastmoney-news:20260315-003",
+    "route": "company",
+    "primaryDriver": "company",
+    "title": "茅台治理扰动压制白酒情绪，但更像减配信号，不是高胜率主动做空信号",
+    "stance": "bearish",
+    "confidence": "medium",
+    "tradability": "low",
+    "instrumentCandidates": [
+      "600519",
+      "酒ETF"
+    ],
+    "notePath": "intel/analysis/2026-03-15/company__ths_20260315_003.md",
+    "keyAssumption": "公司治理事件会压低白酒板块的风险偏好与估值容忍度。",
+    "keyRisk": "防御资金回流消费权重，个股负面被行业反弹快速对冲。"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "runId": "run_20260315_175812",
+  "lastCrawlAt": "2026-03-15T17:58:12+08:00",
+  "timezone": "Asia/Shanghai",
+  "notes": "本次 triad 抓取用于解读 2026-03-09 至 2026-03-13 交易周，抓取时间为 2026-03-15 周日。",
+  "sources": [
+    "eastmoney-news",
+    "sina-finance",
+    "10jqka-news"
+  ]
+}

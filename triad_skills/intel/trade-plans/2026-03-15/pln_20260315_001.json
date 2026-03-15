@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "runId": "run_20260315_175812",
+  "planId": "pln_20260315_001",
+  "eventId": "eastmoney-news:20260315-001",
+  "thesisId": "ths_20260315_001",
+  "instrument": "159915 创业板ETF",
+  "direction": "long",
+  "setup": "event-driven",
+  "regime": "mixed",
+  "trend": "本周成长明显强于权重，上证指数周跌0.70%，创业板指周涨2.51%，结构性风险偏好改善仍在。",
+  "entryTrigger": "仅在创业板指重新站上3330并出现科技板块放量时执行，对应ETF不追高，等确认收回周五回撤中枢。",
+  "entryZone": "以创业板指3330-3350重新站稳作为对应ETF的买入条件。",
+  "stopLoss": "创业板指日线重新跌破3260，或科技主线连续两日缩量下跌。",
+  "targetZone": "创业板指3400-3450对应区域，若量能明显扩张可保留部分仓位观察。",
+  "timeStop": "3-7d",
+  "positionSize": "small",
+  "maxRiskPct": "0.25%",
+  "supportResistance": "支撑看3260-3280，首个阻力看3330-3350，进一步阻力看3400上方。",
+  "volumeConfirmation": "需要看到科技成长成交额较周五明显回升，最好恢复至周三附近水平；若无法实时量化则需人工确认。",
+  "invalidation": "AI政策催化未能转化为持续成交，且创业板重新弱于沪深300。",
+  "executionChecklist": [
+    "是否存在具体 instrument: 是，159915 创业板ETF",
+    "是否满足技术确认: 需先站回3330并放量",
+    "是否存在明确 invalidation: 有",
+    "是否与当前持仓主题高度重合: 需人工确认",
+    "是否需要人工确认量能 / 流动性: 是"
+  ],
+  "confidence": "medium",
+  "status": "approved"
+}

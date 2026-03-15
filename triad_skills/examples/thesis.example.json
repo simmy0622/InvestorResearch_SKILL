@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "runId": "run_20260315_090001",
+  "thesisId": "ths_20260315_001",
+  "eventId": "eastmoney-news:20260315-001",
+  "route": "macro",
+  "primaryDriver": "macro",
+  "title": "MLF降息确认宽松周期延续，短期利好流动性敏感资产，但需关注定价充分度",
+  "stance": "bullish",
+  "confidence": "high",
+  "tradability": "high",
+  "instrumentCandidates": ["510300", "券商ETF", "黄金ETF"],
+  "notePath": "intel/analysis/2026-03-15/macro__ths_20260315_001.md",
+  "keyAssumption": "宽松预期将改善风险偏好并支撑估值扩张",
+  "keyRisk": "市场已提前定价降息，实际落地后反而触发获利回吐"
+}

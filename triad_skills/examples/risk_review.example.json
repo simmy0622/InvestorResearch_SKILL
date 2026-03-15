@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "1.0",
+  "runId": "run_20260315_090001",
+  "reviewId": "rrv_20260315_001",
+  "planId": "pln_20260315_001",
+  "instrument": "510300",
+  "decision": "approved",
+  "vetoReasons": [],
+  "checks": {
+    "missingInstrument": false,
+    "missingInvalidation": false,
+    "missingTechnicalConfirmation": false,
+    "sourceDisagreement": false,
+    "liquidityRisk": false,
+    "correlatedExposure": false
+  },
+  "note": "工具明确（510300流动性充足），技术确认完整，失效条件可证伪，单笔风险0.25%在默认阈值内，无同主题重复敞口。"
+}

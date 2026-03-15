@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "runId": "run_20260315_175812",
+  "planId": "pln_20260315_002",
+  "eventId": "eastmoney-news:20260315-002",
+  "thesisId": "ths_20260315_002",
+  "instrument": "家电ETF",
+  "direction": "long",
+  "setup": "pullback",
+  "regime": "mixed",
+  "trend": "消费修复逻辑在增强，但本周市场相对收益仍明显偏向科技成长，消费线属于候补主线。",
+  "entryTrigger": "只在家电和可选消费板块出现回踩后放量反包，并且相对沪深300重新转强时考虑执行。",
+  "entryZone": "等待板块回踩5日线附近不破后的二次确认，不做消息面当日追涨。",
+  "stopLoss": "若板块回踩后继续弱于沪深300，且政策利好后无跟涨，则取消计划。",
+  "targetZone": "先看前高附近的修复空间，若量价配合再上调目标。",
+  "timeStop": "3-10d",
+  "positionSize": "watch",
+  "maxRiskPct": "watch",
+  "supportResistance": "当前缺少统一价格锚，先以5日线和前高区间做条件位。",
+  "volumeConfirmation": "必须看到家电或可选消费方向的成交额同步回升，否则只保留观察。",
+  "invalidation": "市场继续只追科技弹性，消费板块相对强弱没有改善。",
+  "executionChecklist": [
+    "是否存在具体 instrument: 有，但需进一步确认最优消费工具",
+    "是否满足技术确认: 否，当前仍缺少量价共振",
+    "是否存在明确 invalidation: 有",
+    "是否与当前持仓主题高度重合: 需人工确认",
+    "是否需要人工确认量能 / 流动性: 是"
+  ],
+  "confidence": "medium",
+  "status": "watch"
+}

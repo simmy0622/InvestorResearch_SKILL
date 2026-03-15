@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TradeTriad Artifact Desk</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">TradeTriad</p>
+          <h1>Artifact Desk</h1>
+          <p id="run-meta" class="run-meta"></p>
+        </div>
+        <div class="topbar__actions">
+          <button id="download-run-pack" class="button button--primary">Download Pack</button>
+          <button id="download-selected" class="button button--ghost">Download Selected</button>
+        </div>
+      </header>
+
+      <nav class="tab-bar" id="tab-bar">
+        <button class="tab is-active" data-tab="analysis">Analysis</button>
+        <button class="tab" data-tab="trade-plans">Trade Plans</button>
+        <button class="tab" data-tab="risk-reviews">Risk Reviews</button>
+      </nav>
+
+      <main class="layout">
+        <aside class="files">
+          <div class="files__header">
+            <h2 id="list-heading">Analysis Notes</h2>
+            <p id="file-count"></p>
+          </div>
+          <div id="decisions-summary" class="decisions-summary"></div>
+          <div id="artifact-list" class="artifact-list"></div>
+        </aside>
+
+        <section class="preview">
+          <div class="preview__header">
+            <div>
+              <h2 id="preview-title">No file selected</h2>
+            </div>
+            <div class="preview__meta" id="preview-meta"></div>
+          </div>
+          <div id="preview-body" class="preview__body"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./data/artifact-bundle.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

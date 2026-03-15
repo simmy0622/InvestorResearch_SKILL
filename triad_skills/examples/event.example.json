@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "1.0",
+  "runId": "run_20260315_090001",
+  "eventId": "eastmoney-news:20260315-001",
+  "source": "eastmoney-news",
+  "title": "央行开展MLF操作并下调利率",
+  "summary": "中国人民银行今日开展3000亿元MLF操作，中标利率下调10个基点至2.40%，为年内首次降息，市场预期后续LPR将同步下调。",
+  "url": "https://example.com/news/mlf-rate-cut",
+  "publishedAt": "2026-03-15T09:00:00+08:00",
+  "crawledAt": "2026-03-15T09:01:12+08:00",
+  "categoryHint": "macro",
+  "meta": {
+    "policyFlag": true,
+    "heat": null,
+    "secCode": null,
+    "secName": null,
+    "tags": ["央行", "MLF", "利率", "降息", "货币政策"]
+  },
+  "scores": {
+    "timeliness": 9,
+    "impact": 9,
+    "certainty": 8,
+    "relevance": 7,
+    "surprise": 8,
+    "tradability": 8,
+    "total": 84.5,
+    "grade": "A"
+  }
+}

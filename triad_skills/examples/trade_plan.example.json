@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "runId": "run_20260315_090001",
+  "planId": "pln_20260315_001",
+  "eventId": "eastmoney-news:20260315-001",
+  "thesisId": "ths_20260315_001",
+  "instrument": "510300",
+  "direction": "long",
+  "setup": "event-driven",
+  "regime": "risk-on",
+  "trend": "上证指数周线上行趋势未破，沪深300站稳20日均线，本计划顺趋势。",
+  "entryTrigger": "开盘后站稳前高并出现30分钟级别放量确认",
+  "entryZone": "前高上方0.5%-1.0%",
+  "stopLoss": "跌回前高下方并失守当日VWAP",
+  "targetZone": "2R或前期平台压力位",
+  "timeStop": "3-7d",
+  "positionSize": "small",
+  "maxRiskPct": "0.25%",
+  "supportResistance": "前高为关键阻力转支撑位，下方20日均线为次级支撑",
+  "volumeConfirmation": "开盘首小时成交额高于过去5日同时段均值",
+  "invalidation": "政策解读迅速转弱、金融股未跟随放量、或次日直接低开破前高",
+  "executionChecklist": [
+    "instrument 明确: 510300 沪深300ETF",
+    "技术确认: 需站稳前高 + 放量",
+    "invalidation 明确: 政策转弱或金融股不跟",
+    "持仓重合: 需人工确认是否已有同主题敞口",
+    "量能确认: 首小时成交额需人工核实"
+  ],
+  "confidence": "medium",
+  "status": "draft"
+}

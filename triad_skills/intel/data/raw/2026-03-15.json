@@ -1,0 +1,171 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "eventId": "eastmoney-news:20260315-001",
+    "source": "eastmoney-news",
+    "title": "李迅雷解读“十五五”规划：AI真正成长为国民经济增长支柱性产业",
+    "summary": "财联社3月15日讯，《中华人民共和国国民经济和社会发展第十五个五年规划纲要》发布，全文30次提及人工智能，显示“人工智能+”已从宏观号召走向系统谋划。",
+    "url": "http://finance.eastmoney.com/news/1350,202603153672392989.html",
+    "publishedAt": "2026-03-15T16:43:15+08:00",
+    "crawledAt": "2026-03-15T17:58:12+08:00",
+    "categoryHint": "macro",
+    "meta": {
+      "policyFlag": false,
+      "heat": null,
+      "secCode": null,
+      "secName": null,
+      "tags": [
+        "AI",
+        "人工智能+",
+        "十五五",
+        "科技成长"
+      ]
+    },
+    "scores": {
+      "timeliness": 8,
+      "impact": 9,
+      "certainty": 7,
+      "relevance": 4,
+      "surprise": 7,
+      "tradability": 8,
+      "total": 77.5,
+      "grade": "A"
+    }
+  },
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "eventId": "eastmoney-news:20260315-002",
+    "source": "eastmoney-news",
+    "title": "今年以来消费品以旧换新带动销售额超3000亿元",
+    "summary": "央视新闻客户端3月15日报道，商务部表示今年以来消费品以旧换新政策扎实推进，目前已带动销售额超过3000亿元，内需链条获得持续政策支撑。",
+    "url": "http://finance.eastmoney.com/news/1350,202603153672399139.html",
+    "publishedAt": "2026-03-15T17:33:36+08:00",
+    "crawledAt": "2026-03-15T17:58:12+08:00",
+    "categoryHint": "sector",
+    "meta": {
+      "policyFlag": false,
+      "heat": null,
+      "secCode": null,
+      "secName": null,
+      "tags": [
+        "消费",
+        "以旧换新",
+        "家电",
+        "汽车",
+        "消费电子"
+      ]
+    },
+    "scores": {
+      "timeliness": 8,
+      "impact": 8,
+      "certainty": 8,
+      "relevance": 4,
+      "surprise": 5,
+      "tradability": 6,
+      "total": 71.0,
+      "grade": "A"
+    }
+  },
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "eventId": "eastmoney-news:20260315-003",
+    "source": "eastmoney-news",
+    "title": "业绩失速、股价低位徘徊，从“万亿酒王”到“反腐风暴眼”，茅台困局何解？",
+    "summary": "新财富杂志3月15日报道，贵州省纪委监委网站3月13日消息显示，贵州茅台副总经理、财务总监、董事会秘书蒋焰涉嫌严重违纪违法，白酒龙头公司治理风险再度暴露。",
+    "url": "http://finance.eastmoney.com/news/1354,202603153672375940.html",
+    "publishedAt": "2026-03-15T15:39:02+08:00",
+    "crawledAt": "2026-03-15T17:58:12+08:00",
+    "categoryHint": "company",
+    "meta": {
+      "policyFlag": false,
+      "heat": null,
+      "secCode": "600519",
+      "secName": "贵州茅台",
+      "tags": [
+        "白酒",
+        "公司治理",
+        "高管调查",
+        "防御消费"
+      ]
+    },
+    "scores": {
+      "timeliness": 8,
+      "impact": 7,
+      "certainty": 6,
+      "relevance": 4,
+      "surprise": 7,
+      "tradability": 7,
+      "total": 69.5,
+      "grade": "A"
+    }
+  },
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "eventId": "eastmoney-news:20260315-004",
+    "source": "eastmoney-news",
+    "title": "央视“3·15”晚会今晚播出；企业微信可一键扫码接入OpenClaw｜周末要闻速递",
+    "summary": "21世纪经济报道3月15日报道，国务院常务会议讨论通过《国务院2026年重点工作分工方案》，研究建立地方财政补贴负面清单管理机制，偏中长期制度影响，短线交易映射一般。",
+    "url": "http://finance.eastmoney.com/news/1354,202603153672397590.html",
+    "publishedAt": "2026-03-15T16:51:36+08:00",
+    "crawledAt": "2026-03-15T17:58:12+08:00",
+    "categoryHint": "macro",
+    "meta": {
+      "policyFlag": true,
+      "heat": null,
+      "secCode": null,
+      "secName": null,
+      "tags": [
+        "国常会",
+        "财政补贴",
+        "政策"
+      ]
+    },
+    "scores": {
+      "timeliness": 8,
+      "impact": 7,
+      "certainty": 7,
+      "relevance": 4,
+      "surprise": 4,
+      "tradability": 4,
+      "total": 62.5,
+      "grade": "B"
+    }
+  },
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "eventId": "eastmoney-news:20260315-005",
+    "source": "eastmoney-news",
+    "title": "上海市经济和信息化委员会潘焱：全力推动量子科技从“实验室”走向“应用场”",
+    "summary": "上海证券报3月15日报道，上海在未来产业50人论坛上表态将推动量子科技产业化，主题弹性较高，但当前仍以中长期叙事为主，短线可交易映射偏弱。",
+    "url": "http://finance.eastmoney.com/news/1350,202603153672392788.html",
+    "publishedAt": "2026-03-15T15:54:06+08:00",
+    "crawledAt": "2026-03-15T17:58:12+08:00",
+    "categoryHint": "sector",
+    "meta": {
+      "policyFlag": false,
+      "heat": null,
+      "secCode": null,
+      "secName": null,
+      "tags": [
+        "量子科技",
+        "上海",
+        "未来产业"
+      ]
+    },
+    "scores": {
+      "timeliness": 8,
+      "impact": 6,
+      "certainty": 7,
+      "relevance": 4,
+      "surprise": 6,
+      "tradability": 5,
+      "total": 62.0,
+      "grade": "B"
+    }
+  }
+]

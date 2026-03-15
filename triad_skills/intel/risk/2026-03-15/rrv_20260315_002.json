@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "runId": "run_20260315_175812",
+  "reviewId": "rrv_20260315_002",
+  "planId": "pln_20260315_002",
+  "instrument": "家电ETF",
+  "decision": "watch",
+  "vetoReasons": [
+    "Missing Technical Confirmation"
+  ],
+  "checks": {
+    "sourceDisagreement": false,
+    "liquidityRisk": false,
+    "correlatedExposure": false,
+    "missingInvalidation": false,
+    "missingInstrument": false,
+    "missingTechnicalConfirmation": true
+  },
+  "note": "逻辑成立，但缺少统一价格锚和即刻量价确认，只能继续观察。"
+}

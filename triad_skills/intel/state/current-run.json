@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "1.0",
+  "currentRunId": "run_20260315_175812",
+  "runId": "run_20260315_175812",
+  "stage": "risk",
+  "status": "completed",
+  "scope": "a-share-weekly",
+  "updatedAt": "2026-03-15T18:06:24+08:00",
+  "mode": "triad:run",
+  "market": "A-share",
+  "period": {
+    "label": "本周股市",
+    "calendarWeek": "2026-03-09/2026-03-15",
+    "tradingWeek": "2026-03-09/2026-03-13"
+  },
+  "startedAt": "2026-03-15T17:58:12+08:00",
+  "finishedAt": "2026-03-15T18:06:24+08:00"
+}

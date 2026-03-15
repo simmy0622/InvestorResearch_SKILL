@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "runId": "run_20260315_175812",
+  "planId": "pln_20260315_003",
+  "eventId": "eastmoney-news:20260315-003",
+  "thesisId": "ths_20260315_003",
+  "instrument": "600519",
+  "direction": "watch",
+  "setup": "watch",
+  "regime": "mixed",
+  "trend": "公司治理利空压制情绪，但白酒仍可能受到防御资金回补，趋势并未形成高确定性单边下行。",
+  "entryTrigger": "只有在600519持续弱于白酒指数且无法回到事件前区间时，才把规避信号升级为主动计划。",
+  "entryZone": "当前不主动建仓，只观察事件前收盘区间能否被重新站回。",
+  "stopLoss": "若后续升级为主动计划，则以重新站回事件前收盘区间并伴随白酒板块转强作为取消条件。",
+  "targetZone": "暂不设主动收益目标，以风险规避为主。",
+  "timeStop": "3-10d",
+  "positionSize": "watch",
+  "maxRiskPct": "watch",
+  "supportResistance": "先看事件前收盘区间是否重新成为压力位，缺少更清晰的价格锚。",
+  "volumeConfirmation": "需要看到白酒板块走弱且600519相对指数继续落后；当前需人工确认。",
+  "invalidation": "防御资金重新流入消费权重，茅台快速修复并带动白酒板块走强。",
+  "executionChecklist": [
+    "是否存在具体 instrument: 是，600519",
+    "是否满足技术确认: 否，当前更适合作为减配/规避信号",
+    "是否存在明确 invalidation: 有",
+    "是否与当前持仓主题高度重合: 需人工确认",
+    "是否需要人工确认量能 / 流动性: 是"
+  ],
+  "confidence": "medium",
+  "status": "watch"
+}

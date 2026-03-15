@@ -1,0 +1,10 @@
+{
+  "name": "triad-skills",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "triad:bundle-ui": "node intel/ui/scripts/build-artifact-bundle.mjs",
+    "triad:open-ui": "node intel/ui/scripts/open-artifact-desk.mjs"
+  }
+}

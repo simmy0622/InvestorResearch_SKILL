@@ -1,0 +1,105 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "eventId": "eastmoney-news:20260315-001",
+    "source": "eastmoney-news",
+    "title": "李迅雷解读“十五五”规划：AI真正成长为国民经济增长支柱性产业",
+    "summary": "财联社3月15日讯，《中华人民共和国国民经济和社会发展第十五个五年规划纲要》发布，全文30次提及人工智能，显示“人工智能+”已从宏观号召走向系统谋划。",
+    "url": "http://finance.eastmoney.com/news/1350,202603153672392989.html",
+    "publishedAt": "2026-03-15T16:43:15+08:00",
+    "crawledAt": "2026-03-15T17:58:12+08:00",
+    "categoryHint": "macro",
+    "meta": {
+      "policyFlag": false,
+      "heat": null,
+      "secCode": null,
+      "secName": null,
+      "tags": [
+        "AI",
+        "人工智能+",
+        "十五五",
+        "科技成长"
+      ]
+    },
+    "scores": {
+      "timeliness": 8,
+      "impact": 9,
+      "certainty": 7,
+      "relevance": 4,
+      "surprise": 7,
+      "tradability": 8,
+      "total": 77.5,
+      "grade": "A"
+    }
+  },
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "eventId": "eastmoney-news:20260315-002",
+    "source": "eastmoney-news",
+    "title": "今年以来消费品以旧换新带动销售额超3000亿元",
+    "summary": "央视新闻客户端3月15日报道，商务部表示今年以来消费品以旧换新政策扎实推进，目前已带动销售额超过3000亿元，内需链条获得持续政策支撑。",
+    "url": "http://finance.eastmoney.com/news/1350,202603153672399139.html",
+    "publishedAt": "2026-03-15T17:33:36+08:00",
+    "crawledAt": "2026-03-15T17:58:12+08:00",
+    "categoryHint": "sector",
+    "meta": {
+      "policyFlag": false,
+      "heat": null,
+      "secCode": null,
+      "secName": null,
+      "tags": [
+        "消费",
+        "以旧换新",
+        "家电",
+        "汽车",
+        "消费电子"
+      ]
+    },
+    "scores": {
+      "timeliness": 8,
+      "impact": 8,
+      "certainty": 8,
+      "relevance": 4,
+      "surprise": 5,
+      "tradability": 6,
+      "total": 71.0,
+      "grade": "A"
+    }
+  },
+  {
+    "schemaVersion": "1.0",
+    "runId": "run_20260315_175812",
+    "eventId": "eastmoney-news:20260315-003",
+    "source": "eastmoney-news",
+    "title": "业绩失速、股价低位徘徊，从“万亿酒王”到“反腐风暴眼”，茅台困局何解？",
+    "summary": "新财富杂志3月15日报道，贵州省纪委监委网站3月13日消息显示，贵州茅台副总经理、财务总监、董事会秘书蒋焰涉嫌严重违纪违法，白酒龙头公司治理风险再度暴露。",
+    "url": "http://finance.eastmoney.com/news/1354,202603153672375940.html",
+    "publishedAt": "2026-03-15T15:39:02+08:00",
+    "crawledAt": "2026-03-15T17:58:12+08:00",
+    "categoryHint": "company",
+    "meta": {
+      "policyFlag": false,
+      "heat": null,
+      "secCode": "600519",
+      "secName": "贵州茅台",
+      "tags": [
+        "白酒",
+        "公司治理",
+        "高管调查",
+        "防御消费"
+      ]
+    },
+    "scores": {
+      "timeliness": 8,
+      "impact": 7,
+      "certainty": 6,
+      "relevance": 4,
+      "surprise": 7,
+      "tradability": 7,
+      "total": 69.5,
+      "grade": "A"
+    }
+  }
+]

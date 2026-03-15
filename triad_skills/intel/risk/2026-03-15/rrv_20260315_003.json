@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "runId": "run_20260315_175812",
+  "reviewId": "rrv_20260315_003",
+  "planId": "pln_20260315_003",
+  "instrument": "600519",
+  "decision": "watch",
+  "vetoReasons": [
+    "Missing Technical Confirmation"
+  ],
+  "checks": {
+    "sourceDisagreement": false,
+    "liquidityRisk": false,
+    "correlatedExposure": false,
+    "missingInvalidation": false,
+    "missingInstrument": false,
+    "missingTechnicalConfirmation": true
+  },
+  "note": "事件利空更适合减配而非主动做空，当前没有高确定性下跌技术结构。"
+}
